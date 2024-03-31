@@ -1,0 +1,2 @@
+# Inteligencia_Artificial
+Actividad_2_Inteligencia_Artificial_Búsqueda_Sistemas_Basados_en_Reglas
